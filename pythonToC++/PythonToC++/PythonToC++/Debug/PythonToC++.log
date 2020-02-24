@@ -1,0 +1,31 @@
+﻿  tests.cpp
+C:\Users\Denis\Desktop\Projects\ISDC\pythonToC++\PythonToC++\helpers.cpp(41,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Denis\Desktop\Projects\ISDC\pythonToC++\PythonToC++\helpers.cpp(42,18): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Denis\Desktop\Projects\ISDC\pythonToC++\PythonToC++\helpers.cpp(46,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Denis\Desktop\Projects\ISDC\pythonToC++\PythonToC++\helpers.cpp(48,18): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Denis\Desktop\Projects\ISDC\pythonToC++\PythonToC++\helpers.cpp(156,13): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Denis\Desktop\Projects\ISDC\pythonToC++\PythonToC++\helpers.cpp(157,14): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Denis\Desktop\Projects\ISDC\pythonToC++\PythonToC++\helpers.cpp(214,8): warning C4101: 'color': unreferenced local variable
+C:\Users\Denis\Desktop\Projects\ISDC\pythonToC++\PythonToC++\debugging_helpers.cpp(24,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Denis\Desktop\Projects\ISDC\pythonToC++\PythonToC++\debugging_helpers.cpp(27,14): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Denis\Desktop\Projects\ISDC\pythonToC++\PythonToC++\debugging_helpers.cpp(43,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Denis\Desktop\Projects\ISDC\pythonToC++\PythonToC++\debugging_helpers.cpp(46,14): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Denis\Desktop\Projects\ISDC\pythonToC++\PythonToC++\localizer.cpp(48,27): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Denis\Desktop\Projects\ISDC\pythonToC++\PythonToC++\localizer.cpp(169,18): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Denis\Desktop\Projects\ISDC\pythonToC++\PythonToC++\localizer.cpp(172,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Denis\Desktop\Projects\ISDC\pythonToC++\PythonToC++\localizer.cpp(180,18): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Denis\Desktop\Projects\ISDC\pythonToC++\PythonToC++\localizer.cpp(181,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Denis\Desktop\Projects\ISDC\pythonToC++\PythonToC++\tests.cpp(56,21): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Denis\Desktop\Projects\ISDC\pythonToC++\PythonToC++\tests.cpp(57,19): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Denis\Desktop\Projects\ISDC\pythonToC++\PythonToC++\tests.cpp(58,21): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Denis\Desktop\Projects\ISDC\pythonToC++\PythonToC++\tests.cpp(72,21): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Denis\Desktop\Projects\ISDC\pythonToC++\PythonToC++\tests.cpp(130,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Denis\Desktop\Projects\ISDC\pythonToC++\PythonToC++\tests.cpp(136,13): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Denis\Desktop\Projects\ISDC\pythonToC++\PythonToC++\tests.cpp(138,14): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Denis\Desktop\Projects\ISDC\pythonToC++\PythonToC++\tests.cpp(201,13): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Denis\Desktop\Projects\ISDC\pythonToC++\PythonToC++\tests.cpp(203,14): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Denis\Desktop\Projects\ISDC\pythonToC++\PythonToC++\tests.cpp(218,13): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Denis\Desktop\Projects\ISDC\pythonToC++\PythonToC++\tests.cpp(220,14): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Denis\Desktop\Projects\ISDC\pythonToC++\PythonToC++\tests.cpp(241,19): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Denis\Desktop\Projects\ISDC\pythonToC++\PythonToC++\tests.cpp(242,20): warning C4305: '=': truncation from 'double' to 'float'
+  PythonToC++.vcxproj -> C:\Users\Denis\Desktop\Projects\ISDC\pythonToC++\PythonToC++\Debug\PythonToC++.exe
