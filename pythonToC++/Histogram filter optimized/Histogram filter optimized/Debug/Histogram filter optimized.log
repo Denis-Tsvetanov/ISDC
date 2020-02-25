@@ -1,0 +1,22 @@
+﻿  blur.cpp
+C:\Users\Denis\Desktop\Projects\iSDC-P2-Translate-Python-Cpp\optimized_code\blur.cpp(15,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Denis\Desktop\Projects\iSDC-P2-Translate-Python-Cpp\optimized_code\blur.cpp(16,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Denis\Desktop\Projects\iSDC-P2-Translate-Python-Cpp\optimized_code\blur.cpp(17,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  initialize_beliefs.cpp
+C:\Users\Denis\Desktop\Projects\iSDC-P2-Translate-Python-Cpp\optimized_code\initialize_beliefs.cpp(12,19): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Denis\Desktop\Projects\iSDC-P2-Translate-Python-Cpp\optimized_code\initialize_beliefs.cpp(7,9): warning C4101: 'j': unreferenced local variable
+C:\Users\Denis\Desktop\Projects\iSDC-P2-Translate-Python-Cpp\optimized_code\initialize_beliefs.cpp(7,6): warning C4101: 'i': unreferenced local variable
+  main.cpp
+C:\Users\Denis\Desktop\Projects\iSDC-P2-Translate-Python-Cpp\optimized_code\main.cpp(39,45): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Denis\Desktop\Projects\iSDC-P2-Translate-Python-Cpp\optimized_code\main.cpp(47,30): warning C4305: 'argument': truncation from 'double' to 'float'
+  move.cpp
+  normalize.cpp
+C:\Users\Denis\Desktop\Projects\iSDC-P2-Translate-Python-Cpp\optimized_code\normalize.cpp(12,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Denis\Desktop\Projects\iSDC-P2-Translate-Python-Cpp\optimized_code\normalize.cpp(14,14): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Denis\Desktop\Projects\iSDC-P2-Translate-Python-Cpp\optimized_code\normalize.cpp(20,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Denis\Desktop\Projects\iSDC-P2-Translate-Python-Cpp\optimized_code\normalize.cpp(21,14): warning C4018: '<': signed/unsigned mismatch
+  print.cpp
+  sense.cpp
+  zeros.cpp
+  Generating Code...
+  Histogram filter optimized.vcxproj -> C:\Users\Denis\Desktop\Projects\ISDC\pythonToC++\Histogram filter optimized\Debug\Histogram filter optimized.exe
